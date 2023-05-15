@@ -89,6 +89,13 @@ a{
     height: 26px;
   }
 
+  .img-twitter{
+    height: 30px;
+  }
+  
+  .img-insta{
+    margin-right: 24px;
+  }
 
   @media (max-width: 768px){
 
